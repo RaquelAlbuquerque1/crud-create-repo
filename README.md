@@ -5,7 +5,7 @@ Node Track Challenge - Ignite - @Rocketseat. It consists of an API for creating 
 ## Business Rules
 
 - Should be able to create a new repository
-- Should be able to list the projectsShould be able to list the projects
+- Should be able to list the projects
 - Should be able to update repository
 - Should not be able to update a non existing repository
 - Should not be able to update repository likes manually
